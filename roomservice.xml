@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/samsung/xcover4lte" name="Matff4/android_device_samsung_xcover4lte" remote="github" revision="lineage-19.0" />
+  <project path="device/samsung/xcover4lte" name="Matff4/android_device_samsung_xcover4lte" remote="github" revision="lineage-18.1" />
 </manifest>
